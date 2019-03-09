@@ -1,2 +1,4 @@
 name: Xiaoyu Zhang
 markdown: kramdown
+
+theme: jekyll-theme-leap-day
